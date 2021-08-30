@@ -1,6 +1,6 @@
 # Jupyter_Notebook
 
-### Contenido
+### Contenido.
 
 Este es un repositorio de practicas sobre practicas en Jupyter Notebook.
 
